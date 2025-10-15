@@ -22,8 +22,8 @@ As a data engineer and analyst, I designed a complete ETL (Extract–Transform�
 - Exported raw dataset from Google Sheets as an Excel file.  
 - The data contained non-standardized text fields, inconsistent formats (like “AAST” vs “Arab Academy”), and missing values.
 
-### 2️ Data Transformation (Power Query)
-- Cleaned and transformed data using Power Query in Power BI.  
+### 2️ Data Transformation (Power Query) EXCEL
+- Cleaned and transformed data using Power Query EXCEL.  
 - Standardized values across all categorical columns:
   - Unified university names, faculties, and departments.  
   - Converted text-based graduation years to integers.  
